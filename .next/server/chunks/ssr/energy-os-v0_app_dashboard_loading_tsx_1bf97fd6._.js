@@ -1,0 +1,3 @@
+module.exports=[53312,a=>{"use strict";var b=a.i(97578);function c(){return(0,b.jsx)("div",{className:"min-h-screen bg-background flex items-center justify-center",children:(0,b.jsxs)("div",{className:"text-center",children:[(0,b.jsx)("div",{className:"w-8 h-8 border-2 border-primary border-t-transparent rounded-full animate-spin mx-auto mb-4"}),(0,b.jsx)("p",{className:"text-muted-foreground",children:"Loading dashboard..."})]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=energy-os-v0_app_dashboard_loading_tsx_1bf97fd6._.js.map

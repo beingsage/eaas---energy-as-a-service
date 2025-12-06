@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/discom/layout,_N_T_/discom/page,_N_T_/discom"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/discom/__PAGE__",
+    "/discom",
+    "/_index",
+    "/_head"
+  ]
+}

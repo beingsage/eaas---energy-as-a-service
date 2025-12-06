@@ -1,0 +1,11 @@
+{
+  "/checkout/page": "app/checkout/page.js",
+  "/configure/page": "app/configure/page.js",
+  "/devices/page": "app/devices/page.js",
+  "/discom/page": "app/discom/page.js",
+  "/finance/page": "app/finance/page.js",
+  "/ledger/page": "app/ledger/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/plans/page": "app/plans/page.js"
+}

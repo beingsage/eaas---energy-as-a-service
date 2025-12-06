@@ -1,0 +1,3 @@
+module.exports=[35912,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(48597);a.n(d("[project]/energy-os-v0/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},28608,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(48597);a.n(d("[project]/energy-os-v0/node_modules/next/dist/client/components/builtin/global-error.js"))},60916,a=>{"use strict";a.i(35912);var b=a.i(28608);a.n(b)}];
+
+//# sourceMappingURL=9eff3_next_dist_client_components_builtin_global-error_e2a3dcfc.js.map
