@@ -1,7 +1,6 @@
 # Energy OS - Energy-as-a-Service Platform
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue)](https://energy-os-v0.vercel.app)
-[![YouTube Stream](https://img.shields.io/badge/YouTube-Watch_Stream-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![YouTube Stream](https://img.shields.io/badge/YouTube-Watch_Stream-red)](https://youtu.be/OmzRE7VgBxM)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](./Dockerfile)
 
 ## 🎯 What is Energy OS?
