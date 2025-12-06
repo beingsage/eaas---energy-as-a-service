@@ -1,4 +1,6 @@
 {
+  "/admin/page": "app/admin/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
   "/checkout/page": "app/checkout/page.js",
   "/configure/page": "app/configure/page.js",
   "/devices/page": "app/devices/page.js",
@@ -7,5 +9,6 @@
   "/ledger/page": "app/ledger/page.js",
   "/login/page": "app/login/page.js",
   "/page": "app/page.js",
-  "/plans/page": "app/plans/page.js"
+  "/plans/page": "app/plans/page.js",
+  "/vpp/page": "app/vpp/page.js"
 }

@@ -1,3 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["chunks/energy-os-v0_edge-wrapper_6f6d2268.js",75387,(e,t,h)=>{self._ENTRIES||={};let n=Promise.resolve().then(()=>e.i(4056));n.catch(()=>{}),self._ENTRIES.middleware_middleware=new Proxy(n,{get(e,t){if("then"===t)return(t,h)=>e.then(t,h);let h=(...h)=>e.then(e=>(0,e[t])(...h));return h.then=(h,n)=>e.then(e=>e[t]).then(h,n),h}})}]);
-
-//# sourceMappingURL=energy-os-v0_edge-wrapper_6f6d2268.js.map

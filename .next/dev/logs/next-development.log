@@ -1,20 +1,72 @@
-[00:00:02.561] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:02.941] Server  LOG      ✓ Ready in 2.1s
-[00:00:11.597] Server  LOG      ○ Compiling / ...
-[00:00:16.336] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:16.572] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:16.877] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:16.877] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:16.877] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765033968826}
-[00:00:17.332] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:17.332] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:17.332] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765033968852}
-[00:01:09.325] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/plans color: rgb(120, 120, 120) color: inherit {"dp":"/plans","o":"http://localhost:3001/plans","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034021265}
-[00:01:17.907] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/configure color: rgb(120, 120, 120) color: inherit {"dp":"/configure","o":"http://localhost:3001/configure","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034029846}
-[00:01:37.722] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/checkout?capacity=11&battery=5&ev=false&tou=true&contract=24 color: rgb(120, 120, 120) color: inherit {"dp":"/checkout","o":"http://localhost:3001/checkout?capacity=11&battery=5&ev=false&tou=true&contract=24","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034049642}
-[00:01:43.428] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3001/login","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034055349}
-[00:01:48.253] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/devices color: rgb(120, 120, 120) color: inherit {"dp":"/devices","o":"http://localhost:3001/devices","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034060182}
-[00:01:57.130] Server  LOG      ○ Compiling /ledger ...
-[00:01:59.906] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ledger color: rgb(120, 120, 120) color: inherit {"dp":"/ledger","o":"http://localhost:3001/ledger","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034071819}
-[00:02:06.445] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/finance color: rgb(120, 120, 120) color: inherit {"dp":"/finance","o":"http://localhost:3001/finance","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034078393}
-[00:02:16.585] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/discom color: rgb(120, 120, 120) color: inherit {"dp":"/discom","o":"http://localhost:3001/discom","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1765034088482}
+[00:00:02.517] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:02.900] Server  LOG      ✓ Ready in 2.1s
+[00:00:12.266] Server  LOG      ○ Compiling / ...
+[00:00:17.797] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.873] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:19.873] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:19.873] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041656034}
+[00:00:41.953] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/plans color: rgb(120, 120, 120) color: inherit {"dp":"/plans","o":"http://localhost:3000/plans","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041678101}
+[00:00:55.434] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/configure color: rgb(120, 120, 120) color: inherit {"dp":"/configure","o":"http://localhost:3000/configure","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041691592}
+[00:01:09.892] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041706051}
+[00:01:54.256] Server  ERROR   Login error: MongoServerSelectionError: C03C4EF9037C0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80
+
+[00:02:12.873] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/devices color: rgb(120, 120, 120) color: inherit {"dp":"/devices","o":"http://localhost:3000/devices","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041769029}
+[00:02:30.086] Server  LOG      ○ Compiling /ledger ...
+[00:02:33.128] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ledger color: rgb(120, 120, 120) color: inherit {"dp":"/ledger","o":"http://localhost:3000/ledger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041789269}
+[00:02:39.215] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:39.215] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:39.215] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:39.215] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:02:49.798] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/vpp color: rgb(120, 120, 120) color: inherit {"dp":"/vpp","o":"http://localhost:3000/vpp","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041805952}
+[00:03:15.415] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/finance color: rgb(120, 120, 120) color: inherit {"dp":"/finance","o":"http://localhost:3000/finance","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041831574}
+[00:03:32.066] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/discom color: rgb(120, 120, 120) color: inherit {"dp":"/discom","o":"http://localhost:3000/discom","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041848225}
+[00:03:34.942] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765041851099}
+[00:16:20.410] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/finance color: rgb(120, 120, 120) color: inherit {"dp":"/finance","o":"http://localhost:3000/finance","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765042616558}
+[00:16:23.483] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/vpp color: rgb(120, 120, 120) color: inherit {"dp":"/vpp","o":"http://localhost:3000/vpp","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765042619573}
+[00:25:34.337] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043170495}
+[00:25:52.650] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043188809}
+[00:25:56.187] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/plans color: rgb(120, 120, 120) color: inherit {"dp":"/plans","o":"http://localhost:3000/plans","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043192339}
+[00:25:58.092] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/configure color: rgb(120, 120, 120) color: inherit {"dp":"/configure","o":"http://localhost:3000/configure","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043194232}
+[00:26:02.239] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043198398}
+[00:26:04.129] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/devices color: rgb(120, 120, 120) color: inherit {"dp":"/devices","o":"http://localhost:3000/devices","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043200284}
+[00:26:06.366] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ledger color: rgb(120, 120, 120) color: inherit {"dp":"/ledger","o":"http://localhost:3000/ledger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043202466}
+[00:26:09.010] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/vpp color: rgb(120, 120, 120) color: inherit {"dp":"/vpp","o":"http://localhost:3000/vpp","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043205089}
+[00:26:10.455] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043206614}
+[00:26:29.046] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/plans color: rgb(120, 120, 120) color: inherit {"dp":"/plans","o":"http://localhost:3000/plans","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043225191}
+[00:26:32.067] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/configure?plan=res-0 color: rgb(120, 120, 120) color: inherit {"dp":"/configure","o":"http://localhost:3000/configure?plan=res-0","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043228201}
+[00:26:51.258] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/checkout?capacity=17&battery=10&ev=false&tou=true&contract=24 color: rgb(120, 120, 120) color: inherit {"dp":"/checkout","o":"http://localhost:3000/checkout?capacity=17&battery=10&ev=false&tou=true&contract=24","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043247394}
+[00:26:56.590] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/configure color: rgb(120, 120, 120) color: inherit {"dp":"/configure","o":"http://localhost:3000/configure","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043252729}
+[00:26:59.771] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/devices color: rgb(120, 120, 120) color: inherit {"dp":"/devices","o":"http://localhost:3000/devices","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043255917}
+[00:27:07.627] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ledger color: rgb(120, 120, 120) color: inherit {"dp":"/ledger","o":"http://localhost:3000/ledger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043263679}
+[00:27:11.697] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:27:11.698] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:27:11.698] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:27:11.698] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:27:20.050] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/vpp color: rgb(120, 120, 120) color: inherit {"dp":"/vpp","o":"http://localhost:3000/vpp","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043276062}
+[00:27:28.491] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/finance color: rgb(120, 120, 120) color: inherit {"dp":"/finance","o":"http://localhost:3000/finance","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043284643}
+[00:27:35.906] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/discom color: rgb(120, 120, 120) color: inherit {"dp":"/discom","o":"http://localhost:3000/discom","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043292015}
+[00:27:38.728] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765043294822}

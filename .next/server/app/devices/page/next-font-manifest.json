@@ -1,7 +1,7 @@
 {
   "pages": {},
   "app": {
-    "[project]/energy-os-v0/app/devices/page": [
+    "[project]/app/devices/page": [
       "static/media/38df7484fe560b25-s.p.60f15535.woff2",
       "static/media/5849aa7d99f8e15e-s.p.ea0ea436.woff2",
       "static/media/f0b856f7f1c4bda0-s.p.0a1731ba.woff2",

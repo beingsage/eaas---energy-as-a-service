@@ -4,16 +4,16 @@ globalThis.__BUILD_MANIFEST = {
   },
   "devFiles": [],
   "polyfillFiles": [
-    "static/chunks/a6dad97d9634a72d.js"
+    "static/chunks/664adc71bc2617c2.js"
   ],
   "lowPriorityFiles": [],
   "rootMainFiles": [
-    "static/chunks/3c5a10f0dae1fb40.js",
-    "static/chunks/b2bbb81d87284db4.js",
-    "static/chunks/7ce0df0e22d85d76.js",
-    "static/chunks/8cfb84feece75ea9.js",
-    "static/chunks/d8a463ec3701a4a6.js",
-    "static/chunks/turbopack-2f5c1fa4a558ff1a.js"
+    "static/chunks/0487dcf119c456b7.js",
+    "static/chunks/4a2e6ca9bc162ffe.js",
+    "static/chunks/3a677a9a12f3461c.js",
+    "static/chunks/06525dfb60487280.js",
+    "static/chunks/d7f8582e1fb0180d.js",
+    "static/chunks/turbopack-fdfc502a3ce0cd05.js"
   ]
 };
 globalThis.__BUILD_MANIFEST.lowPriorityFiles = [

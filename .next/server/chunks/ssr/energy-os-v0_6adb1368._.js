@@ -1,3 +1,0 @@
-module.exports=[80907,a=>{"use strict";var b=a.i(97578),c=a.i(10343);function d({className:a,...d}){return(0,b.jsx)("div",{"data-slot":"skeleton",className:(0,c.cn)("bg-accent animate-pulse rounded-md",a),...d})}a.s(["Skeleton",()=>d])},47374,a=>{"use strict";var b=a.i(97578),c=a.i(80907);function d(){return(0,b.jsx)("div",{className:"min-h-screen bg-background p-8",children:(0,b.jsxs)("div",{className:"max-w-7xl mx-auto space-y-8",children:[(0,b.jsx)(c.Skeleton,{className:"h-10 w-64"}),(0,b.jsx)("div",{className:"grid grid-cols-2 md:grid-cols-4 gap-4",children:[void 0,void 0,void 0,void 0].map((a,d)=>(0,b.jsx)(c.Skeleton,{className:"h-32"},d))}),(0,b.jsx)(c.Skeleton,{className:"h-96"})]})})}a.s(["default",()=>d])}];
-
-//# sourceMappingURL=energy-os-v0_6adb1368._.js.map

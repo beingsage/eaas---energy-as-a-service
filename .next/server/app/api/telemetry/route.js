@@ -1,6 +1,6 @@
 var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/telemetry/route.js")
-R.c("server/chunks/[root-of-the-server]__aafd36cc._.js")
-R.c("server/chunks/[root-of-the-server]__2324b32d._.js")
-R.c("server/chunks/energy-os-v0__next-internal_server_app_api_telemetry_route_actions_04b18f9a.js")
-R.m(65914)
-module.exports=R.m(65914).exports
+R.c("server/chunks/[root-of-the-server]__a3c16107._.js")
+R.c("server/chunks/[root-of-the-server]__b2da729a._.js")
+R.c("server/chunks/_next-internal_server_app_api_telemetry_route_actions_e80b9c6d.js")
+R.m(17208)
+module.exports=R.m(17208).exports
